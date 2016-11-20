@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp3\tp3_inf10102\tp3_inf10102\main.cpp(153): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TP3_INF10102.vcxproj -> C:\Users\Adrien\Desktop\Cursus\Polytechnique Montréal\INF1010\TP3\TP3_INF10102\Debug\TP3_INF10102.exe
+  TP3_INF10102.vcxproj -> C:\Users\Adrien\Desktop\Cursus\Polytechnique Montréal\INF1010\TP3\TP3_INF10102\Debug\TP3_INF10102.pdb (Partial PDB)

@@ -1,0 +1,19 @@
+﻿  AttaqueMagique.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp4\inf1010tp4\inf1010tp4\main.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PolyLand.cpp
+  Dresseur.cpp
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp4\inf1010tp4\inf1010tp4\dresseur.cpp(101): warning C4018: '>=': signed/unsigned mismatch
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp4\inf1010tp4\inf1010tp4\dresseur.cpp(107): warning C4018: '>': signed/unsigned mismatch
+  CreatureMagique.cpp
+  Creature.cpp
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp4\inf1010tp4\inf1010tp4\creature.cpp(136): warning C4018: '>': signed/unsigned mismatch
+c:\users\adrien\desktop\cursus\polytechnique montréal\inf1010\tp4\inf1010tp4\inf1010tp4\creature.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  AttaqueMagiqueConfusion.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  AttaqueMagiquePoison.cpp
+  INF1010TP4.vcxproj -> C:\Users\Adrien\Desktop\Cursus\Polytechnique Montréal\INF1010\TP4\INF1010TP4\Debug\INF1010TP4.exe
+  INF1010TP4.vcxproj -> C:\Users\Adrien\Desktop\Cursus\Polytechnique Montréal\INF1010\TP4\INF1010TP4\Debug\INF1010TP4.pdb (Partial PDB)
